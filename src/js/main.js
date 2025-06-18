@@ -1,12 +1,12 @@
-let peso
-let altura 
-let imc
-peso =prompt("ingresa tu peso:")
-altura= prompt("ingresa tu altura(metros)")
 
-imc = peso /(altura*altura)
 
-console.info("tu imc es:"+ imc)
+function enviarFormulario(){
+            
+    const peso = Number(document.getElementById('peso').value)
+    const altura = Number(document.getElementById('altura').value)
 
-// crear una tabla de clasificacion
-// codicionales 
+  if(!peso || !altura) return alert("Es necario colocar todos los valores")
+
+  const res = document.getElementById("resultado").innerHTML = peso / (altura * altura)
+            
+  } 
