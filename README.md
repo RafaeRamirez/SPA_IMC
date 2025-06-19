@@ -16,4 +16,4 @@ This web application, developed with HTML, CSS, and JavaScript, aims to calculat
 
 This project was created by **[Rafael ramirez](https://github.com/RafaeRamirez)**. 
 
-If you have any questions or comments about the project, you can contact Rafael at rafar1129@gmail.com.
+If you have any questions or comments about the project, you can contact Rafael at rafar1129@hotmail.com.
